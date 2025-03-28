@@ -32,3 +32,5 @@
 - git add README.md
 - git commit -m "รวบรวมคำสั่ง git"
 - git push origin develop
+- git add README.md
+- git commit -m "แก้ไข README.md"
