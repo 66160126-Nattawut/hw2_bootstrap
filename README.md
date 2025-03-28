@@ -32,6 +32,4 @@
 - git commit -m "เพิ่มรูป screenshot 3แบบ"
 - git add README.md
 - git commit -m "รวบรวมคำสั่ง git"
-- git checkout main
-- git merge feature/main
-- git push origin main
+- git push origin develop
