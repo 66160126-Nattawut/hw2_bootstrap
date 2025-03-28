@@ -1,6 +1,5 @@
 # hw2_bootstrap
 # รวบรวมคำสั่ง GIT
-- git commit -m "initial commit"
 - git add . 
 - git commit -m "เริ่มปรับเว็บไซต์เป็น bootstrap"
 - git checkout -d feature/home
