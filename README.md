@@ -1,1 +1,37 @@
 # hw2_bootstrap
+# รวบรวมคำสั่ง GIT
+- git commit -m "initial commit"
+- git add . 
+- git commit -m "เริ่มปรับเว็บไซต์เป็น bootstrap"
+- git checkout -d feature/home
+- git add index.html
+- git commit -m "แก้ไขindex.html ด้วย bootstrap"
+- git checkout -d feature/contact
+- git add contact.html
+- git commit -m "แก้ไข header"
+- git commit -m "แก้ไขในส่วนของ navbar"
+- git commit -m "แก้ไข footer"
+- git commit -m "แก้ไข forms ด้วย bootstrap"
+- git checkout feature/home
+- git add index.html
+- git commit -m "แก้ไขข้อมูลเพิ่มเติม"
+- git checkout -d feature/travel
+- git add travel.html
+- git commit -m "แก้ไข footer"
+- git commit -m "แก้ไข head"
+- git commit -m "แก้ไข body ด้วย bootstrap"
+- git commit -m "เพิ่มข้อมูลสถานที่ท่องเที่ยว"
+- git commit -m "แก้ไขด้วย bootstrap card component"
+- git add images
+- git commit -m "เพิ่มรูปภาพ"
+- git checkout develop
+- git merge feature/home
+- git merge feature/contact
+- git merge feature/travel
+- git add screenshot.pdf
+- git commit -m "เพิ่มรูป screenshot 3แบบ"
+- git add README.md
+- git commit -m "รวบรวมคำสั่ง git"
+- git checkout main
+- git merge feature/main
+- git push origin main
